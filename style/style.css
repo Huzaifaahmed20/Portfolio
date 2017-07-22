@@ -1,0 +1,107 @@
+
+
+.navbar-default {
+    background-color: indigo;
+    border-color: #E7E7E7;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: #E7E7E7;
+    color: #555555;
+}
+.jumbotron{
+  margin-top:50px;
+ background-color:#990066;
+}
+h4{
+  font-family: 'Bree Serif', serif;
+  color:white;
+}
+hr.style18 { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: white; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+} 
+hr.style18:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: white; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+
+div.second-jumbo{
+/* width:720px;
+  margin-top:-30px;
+  margin-right:10px; */
+  background-color:#C7FCEC;
+}
+hr.style19 { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: black; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+} 
+hr.style19:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: black; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+
+div.third-jumbo{
+/*   width:720px;
+  margin-right:10px;  */
+  background-color:#D9853B;
+}
+hr.style20 { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: white; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+} 
+hr.style20:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: white; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+/* font-family: 'Lobster', cursive;
+font-family: 'Bree Serif', serif;
+font-family: 'Acme', sans-serif;
+font-family: 'Play', sans-serif;
+ */
+.codehub{
+  margin-top:20px;
+}
+.wiki{  
+  margin-top:20px;
+}
+.fourth-contain{
+  background-color:#cc0066;
+}
+#portfolio{
+  color:black;
+}
+h1,h2,h3{
+  font-family: 'Acme', sans-serif;
+  color:white;
+}
